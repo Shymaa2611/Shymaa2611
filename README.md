@@ -43,5 +43,5 @@ async def introduce_yourself(request: Introduction):
 - 🌐 Server Deployment and Management (Docker,pythonanywhere)
 
 - ⚡ Fun fact: ...
--Programming is the art of turning imagination into reality
+- Programming is the art of turning imagination into reality
 -->
