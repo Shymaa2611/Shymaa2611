@@ -3,8 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&red=%23FF0000&size=25&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hi 👋+Friends;My+name+is+Shymaa+Medhat+.;I+am+a+Backend+Developer+.;and+I' m+interested+in+%5BPython+%2C+Django+%2C+Rest+Framework%5D" alt="Typing SVG" />
 </a>
 </p>
-
-
+<br/>
 
 <span align="left"><a href="https://github.com/Shymaa2611"> <img src="https://komarev.com/ghpvc/?username=shymaa2611&label=Github&color=0e75b6&style=flat" alt="shymaa2611" /> </a></span>
 <span align="left"><a href="https://www.linkedin.com/in/shymaa-medhat-4104b0289"> <img src="https://komarev.com/ghpvc/?username=shymaa2611&label=LinkedIn&color=0e75b6&style=flat" alt="shymaa2611" /> </a></span>
