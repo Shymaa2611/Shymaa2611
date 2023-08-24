@@ -1,5 +1,5 @@
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&red=%23FF0000&size=30&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Friends;My+name+is+Shymaa+Medhat+.;I+am+a+Backend+Developer+.;and+I+am+interested+in+%5Django+%2C+Django+%2C+FastApi%5D" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&red=%23FF0000&size=30&duration=3000&pause=503&center=true&vCenter=true&width=1000&lines=Hello+Friends;My+name+is+Shymaa+Medhat+.;I+am+a+Backend+Developer+.;and+I+am+interested+in[Django - FastAPI ]" alt="Typing SVG" />
 </a>
 
 <span align="left"><a href="https://github.com/Shymaa2611"> <img src="https://komarev.com/ghpvc/?username=shymaa2611&label=Github&color=0e75b6&style=flat" alt="shymaa2611" /> </a></span>
