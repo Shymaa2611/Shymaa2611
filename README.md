@@ -3,20 +3,7 @@
 <span align="left"><a href="https://github.com/Shymaa2611"> <img src="https://komarev.com/ghpvc/?username=shymaa2611&label=Github&color=0e75b6&style=flat" alt="shymaa2611" /> </a></span>
 <span align="left"><a href="https://www.linkedin.com/in/shymaa-medhat-4104b0289"> <img src="https://komarev.com/ghpvc/?username=shymaa2611&label=LinkedIn&color=0e75b6&style=flat" alt="shymaa2611" /> </a></span>
 <span align="left"><a href="https://www.facebook.com/shaymaa.madhetahmed?mibextid=b06tZ0"> <img src="https://komarev.com/ghpvc/?username=shymaa2611&label=Facebook&color=0e75b6&style=flat" alt="shymaa2611" /> </a></span>
-```python
-from rest_framework.decorators import api_view
-from rest_framework.response import Response
 
-@api_view(['POST'])
-def introduce_yourself(request):
-    name = request.data.get('name', 'Shymaa Medhat')
-    job_title = request.data.get('occupation', 'Backend Developer')
-    interests = request.data.get('interests', ['Python', 'Django', 'Rest Framework','Graphql','swagger','Postgresql','Mongodb'])
-
-    introduction = f"Hello, my name is {name}. I am a {job_title} and I interest with {', '.join(interests)}."
-
-    return Response({'introduction': introduction})
-```
 
 
 
