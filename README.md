@@ -3,8 +3,30 @@
 <span align="left"><a href="https://github.com/Shymaa2611"> <img src="https://komarev.com/ghpvc/?username=shymaa2611&label=Github&color=0e75b6&style=flat" alt="shymaa2611" /> </a></span>
 <span align="left"><a href="https://www.linkedin.com/in/shymaa-medhat-4104b0289"> <img src="https://komarev.com/ghpvc/?username=shymaa2611&label=LinkedIn&color=0e75b6&style=flat" alt="shymaa2611" /> </a></span>
 <span align="left"><a href="https://www.facebook.com/shaymaa.madhetahmed?mibextid=b06tZ0"> <img src="https://komarev.com/ghpvc/?username=shymaa2611&label=Facebook&color=0e75b6&style=flat" alt="shymaa2611" /> </a></span>
-'''python
-'''
+<p>
+
+  ```python
+from fastapi import FastAPI
+from pydantic import BaseModel
+
+app = FastAPI()
+
+class IntroductionRequest(BaseModel):
+    name: str = 'Shymaa Medhat'
+    occupation: str = 'Backend Developer'
+    interests: list = ['Python', 'FastAPI', 'Rest Framework', 'Graphql', 'Swagger', 'PostgreSQL', 'MongoDB']
+
+@app.post("/introduce_yourself")
+async def introduce_yourself(request: IntroductionRequest):
+    name = request.name
+    job_title = request.occupation
+    interests = ', '.join(request.interests)
+
+    introduction = f"Hello, my name is {name}. I am a {job_title} and I'm interested in {interests}."
+
+    return {'introduction': introduction}
+```
+</p>
 
 
 
