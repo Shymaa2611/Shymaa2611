@@ -43,4 +43,5 @@ async def introduce_yourself(request: Introduction):
 - 🌐 Server Deployment and Management (Docker,pythonanywhere)
 
 - ⚡ Fun fact: ...
+- Code is a reflection of thought
 -->
