@@ -46,6 +46,6 @@ async def introduce_yourself(request: Introduction):
 - 🚀 RESTful API Development and Graphql
 - 🌐 Server Deployment and Management (Docker,pythonanywhere)
 
-- ⚡ Fun fact: ...
+- ⚡ fact: ...
 - Programming is the art of turning imagination into reality
 
