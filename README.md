@@ -20,15 +20,15 @@ app = FastAPI()
 class Introduction(BaseModel):
     name: str = 'Shymaa Medhat'
     job_title: str = 'Backend Developer'
-    interests: list = ['Python','Django','FastAPI','Rest Framework', 'Graphql', 'Swagger', 'PostgreSQL', 'MongoDB']
+    knowledge: list = ['Python','Django','FastAPI','Rest Framework', 'Graphql', 'Swagger', 'PostgreSQL', 'MongoDB']
 
 @app.post("/introduce_yourself")
 async def introduce_yourself(request: Introduction):
     name = request.name
     job_title = request.ojob_title
-    interests = ', '.join(request.interests)
+    knowledge = ', '.join(request.knowledge)
 
-    introduction = f"Hello, my name is {name}. I am a {job_title} and I'm interested in {interests}."
+    introduction = f"Hello, my name is {name}. I am a {job_title} and I have Knowledge in {knowledge}."
 
     return {'introduction': introduction}
 ```
