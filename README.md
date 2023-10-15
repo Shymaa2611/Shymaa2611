@@ -25,7 +25,7 @@ class Introduction(BaseModel):
 @app.post("/introduce_yourself")
 async def introduce_yourself(request: Introduction):
     name = request.name
-    job_title = request.ojob_title
+    job_title = request.job_title
     knowledge = ', '.join(request.knowledge)
 
     introduction = f"Hello, my name is {name}. I am a {job_title} and I have Knowledge in {knowledge}."
