@@ -47,7 +47,15 @@ async def introduce_yourself(request: Introduction):
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/> 
   </a>
-   
+ <a href="https://ffmpeg.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ffmpeg/ffmpeg-original.svg" alt="ffmpeg" width="40" height="40"/> 
+  </a>
+  <a href="https://pypi.org/project/pydub/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/jiaaro/pydub/master/docs/pydub_logo.png" alt="pydub" width="40" height="40"/> 
+  </a>
+  <a href="https://www.openslr.org/17/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.openslr.org/resources/17/pytorch-kaldi-logo.png" alt="kaldi" width="40" height="40"/> 
+  </a>   
 </p>
 ## Technologies I Love
 
