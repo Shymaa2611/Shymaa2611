@@ -51,7 +51,7 @@ async def introduce_yourself(request: Introduction):
 </p>
 ## Technologies I Love
 
-- 💻 Python (Django,FastAPI)
+- 💻 Python (Django,FastAPI,Pytorch,Tensorflow,transformers,Speech Processing,NLP)
 - 🗄️ Relational and NoSQL Databases (PostgreSQL, MongoDB)
 - 🚀 RESTful API Development and Graphql
 - 🌐 Server Deployment and Management (Docker,pythonanywhere)
