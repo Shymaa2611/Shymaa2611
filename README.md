@@ -8,7 +8,7 @@
 <span align="left"><a href="https://github.com/Shymaa2611"> <img src="https://komarev.com/ghpvc/?username=shymaa2611&label=Github&color=0e75b6&style=flat" alt="shymaa2611" /> </a></span>
 <span align="left"><a href="https://www.linkedin.com/in/shymaa-medhat-4104b0289"> <img src="https://komarev.com/ghpvc/?username=shymaa2611&label=LinkedIn&color=0e75b6&style=flat" alt="shymaa2611" /> </a></span>
 <span align="left"><a href="https://www.facebook.com/shaymaa.madhetahmed?mibextid=b06tZ0"> <img src="https://komarev.com/ghpvc/?username=shymaa2611&label=Facebook&color=0e75b6&style=flat" alt="shymaa2611" /> </a></span>
-<span align="left"><a href="https://drive.google.com/file/d/18rKzKqy4BKpe0WES25qGFZTY6h9SprAE/view?usp=sharing"> CV </a></span>
+<span align="left"><a href="https://drive.google.com/file/d/18rKzKqy4BKpe0WES25qGFZTY6h9SprAE/view?usp=sharing"><img src="https://komarev.com/ghpvc/?username=shymaa2611&label=CV&color=0e75b6&style=flat" alt="shymaa2611" /></a></span>
 <p>
 
   ```python
