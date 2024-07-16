@@ -19,7 +19,7 @@ app = FastAPI()
 
 class Introduction(BaseModel):
     name: str = 'Shymaa Medhat'
-    job_title: str = 'Backend Developer'
+    job_title: str = 'AI Engineer Specialist in Speech Processing and NLP'
     knowledge: list = ['Python','Django','FastAPI','Pytorch', 'TensorFlow', 'Transformers','Speech Processing', 'PostgreSQL', 'MongoDB']
 
 @app.post("/introduce_yourself")
