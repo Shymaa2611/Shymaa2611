@@ -1,5 +1,6 @@
 ## 👋 Welcome to My GitHub!
-### 💻 AI Engineer | 🌍 Speech Processing & NLP  | 🚀 Python & ML Developer
+### 💻 AI Engineer | 🌍 Speech Processing & NLP | 🚀 Python & ML, Django & FastAPI Developer
+
 
 ---
 
