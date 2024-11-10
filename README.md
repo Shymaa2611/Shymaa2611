@@ -1,5 +1,5 @@
 ## 👋 Welcome to My GitHub!
-### 💻 AI Engineer | 🌍 Speech Processing & NLP Enthusiast | 🚀 Python & ML Developer
+### 💻 AI Engineer | 🌍 Speech Processing & NLP  | 🚀 Python & ML Developer
 
 ---
 
@@ -66,13 +66,5 @@ Passionate AI Engineer with a deep interest in Speech Processing, NLP, and devel
 - 🌱 Always learning and evolving in the world of AI and NLP.
 - 🚀 On a mission to make machines understand human language!
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shymaa2611&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-</p>
-
----
 
