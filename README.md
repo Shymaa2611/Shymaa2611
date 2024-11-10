@@ -26,6 +26,7 @@
   </a>
 
 </p>
+
 ## Technologies I Love
 
 - 💻 Python (Django,FastAPI,Pytorch,Tensorflow,transformers,Speech Processing,NLP)
