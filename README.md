@@ -33,7 +33,7 @@ Passionate AI Engineer with a deep interest in Speech Processing, NLP, and devel
 <table>
   <tr>
     <td><b>Programming Languages</b></td>
-    <td>Python, JavaScript, C++</td>
+    <td>Python, C++ , C , Dart , JavaScript </td>
   </tr>
   <tr>
     <td><b>Frameworks</b></td>
