@@ -12,28 +12,11 @@
 <span align="left"><a href="https://drive.google.com/file/d/1YN8eXd4_ow11XRQYCqvIgMaYbP8uvZnE/view?usp=drive_link"><img src="https://komarev.com/ghpvc/?username=shymaa2611&label=CV&color=0e75b6&style=flat" alt="shymaa2611" /></a></span>
 <p>
 
-  ```python
-from fastapi import FastAPI
-from pydantic import BaseModel
+###
 
-app = FastAPI()
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-class Introduction(BaseModel):
-    name: str = 'Shymaa Medhat'
-    job_title: str = 'AI Engineer'
-    knowledge: list = ['Python','Django','FastAPI','Pytorch', 'TensorFlow', 'Transformers','Speech Processing', 'PostgreSQL', 'MongoDB']
-
-@app.post("/introduce_yourself")
-async def introduce_yourself(request: Introduction):
-    name = request.name
-    job_title = request.job_title
-    knowledge = ', '.join(request.knowledge)
-
-    introduction = f"Hello, my name is {name}. I am a {job_title} and I have Knowledge in {knowledge}."
-
-    return {'introduction': introduction}
-```
-</p>
+###
 
 
 
