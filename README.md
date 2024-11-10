@@ -29,9 +29,7 @@ Passionate AI Engineer with a deep interest in Speech Processing, NLP, and devel
 ---
 
 ## Fun Facts
-- 🔭 Currently exploring advanced NLP techniques and machine translation.
+
 - 🎨 Programming is the art of turning imagination into reality.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats"/>
-</p>
+
