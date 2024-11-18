@@ -18,12 +18,28 @@
   <a href="https://drive.google.com/file/d/1YN8eXd4_ow11XRQYCqvIgMaYbP8uvZnE/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-CV-0e75b6?style=for-the-badge&logo=googledrive&logoColor=white"></a>
 </p>
 
----
 
+```python
+from fastapi import FastAPI
+from pydantic import BaseModel
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+app = FastAPI()
 
----
+class Introduction(BaseModel):
+    name: str = 'Shymaa Medhat'
+    job_title: str = 'Backend Developer'
+    knowledge: list = ['Python','Django','FastAPI','Pytorch', 'TensorFlow', 'Transformers', 'PostgreSQL', 'MongoDB']
+
+@app.post("/introduce_yourself")
+async def introduce_yourself(request: Introduction):
+    name = request.name
+    job_title = request.job_title
+    knowledge = ', '.join(request.knowledge)
+
+    introduction = f"Hello, my name is {name}. I am a {job_title} and I have Knowledge in {knowledge}."
+
+    return {'introduction': introduction}
+```
 
 ### About Me
 Passionate AI Engineer with a deep interest in Speech Processing, NLP, and developing real-world applications. From REST APIs to model training, I strive to blend cutting-edge technology with practical, scalable solutions.
